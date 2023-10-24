@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: soum-urakaihatu
+    name: soum-ipad
     env: python
     region: Oregon
     plan: free
