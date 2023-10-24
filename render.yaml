@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: urakaihatu
+    name: soum-urakaihatu
     env: python
     region: Oregon
     plan: free
