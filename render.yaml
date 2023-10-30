@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: soum-ipad
+    name: soum-slim1
     env: python
     region: Oregon
     plan: free
