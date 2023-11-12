@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: emergency-ryousan-tipe
+    name: emergency-ryousan-type
     env: python
     region: Oregon
     plan: free
